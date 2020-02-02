@@ -16,10 +16,10 @@
 	check the java version in the build path.Once all set, then run the program as Java application.
   
  # Run an Application
- Before run the application, make sure the C drive should have the folder name called #FileWriter and the appropriate disk space.
+ Before run the application, make sure the C drive should have the folder name called # FileWriter and the appropriate disk space.
  Since, based on the input the generated file size may vary with maximum value.
  Right click the program and select Run as Java Application.Then key in the positive integer value 
  that can be vary from  1 to 2 power 30 -1.
  
- #Summary
+ # Summary
  This text file writer has been used to write it in the text filein efficient way.
